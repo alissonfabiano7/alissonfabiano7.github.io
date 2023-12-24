@@ -32,7 +32,7 @@
   "education": [
     {
       "institution": "PUC Minas, Belo Horizonte, BR",
-      "area": "Fullstack Web Development"
+      "area": "Fullstack Web Development",
       "studyType": "B.S.",
       "startDate": "2021-09-01",
       "endDate": "Present",
@@ -41,7 +41,7 @@
     },
     {
       "institution": "UniCesumar, Belo Horizonte, BR",
-      "area": "Computer Science"
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2021-09-01",
       "endDate": "Present",
