@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "", "city": "Juiz de Fora", "countryCode": "", "region": "Brazil" },
     "profiles": [
       { "network": "github", "username": "alissonfabiano7", "url": "http://github.com/alissonfabiano7" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/alissonfabiano7" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/alissonfabiano7" }
     ]
   },
   "interests": [
@@ -33,6 +33,15 @@
     {
       "institution": "PUC Minas, Belo Horizonte, BR",
       "area": "Fullstack Web Development"
+      "studyType": "B.S.",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "UniCesumar, Belo Horizonte, BR",
+      "area": "Computer Science"
       "studyType": "B.S.",
       "startDate": "2021-09-01",
       "endDate": "Present",
